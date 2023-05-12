@@ -1,11 +1,11 @@
 {
-  "name": "cine-spark",
+  "name": "js_fson_74-YuliaMoore",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://YuliaMoore.github.io/cine-spark",
+  "homepage": "https://GoitStudentsWorks.github.io/js_fson_74-YuliaMoore",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /cine-spark/"
+    "build": "parcel build src/*.html --public-url /js_fson_74-YuliaMoore/"
   },
   "repository": {
     "type": "git",
